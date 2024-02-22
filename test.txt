@@ -1,1 +1,4 @@
 select * from department;
+SELECT EMP_NO, EMP_NAME
+FROM EMPLOYEE
+WHERE EMP_NAME = '노옹철';
